@@ -1,0 +1,17 @@
+{
+    "title": "Dates of the St Giles' Fair",
+    "description": "Find out when St Giles' Fair comes to Oxford. Relevant as some places along St Giles are shut.",
+    "divisions": {
+        "st-giles": {
+            "title": "St Giles",
+            "2014": [
+                {
+                    "date": "2014-09-08"
+                },
+                {
+                    "date": "2014-09-09"
+                }
+            ]
+        }
+    }
+}
