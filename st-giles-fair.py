@@ -39,5 +39,4 @@ def generate(years):
 
 if __name__ == '__main__':
     data = generate(range(2000, 2200))
-
     json.dump(data, sys.stdout, indent=2, sort_keys=True)
