@@ -9,5 +9,5 @@ Modelled after <https://github.com/alphagov/calendars/blob/master/lib/data/bank-
 
 # To do
 
- * add scripts to generate these dates
- * add Encaenia, dates of term (full, extended, PGCE, MBA, clinical, etc)
+ * add scripts to generate these dates (done for current; will need more)
+ * add dates of term (extended, PGCE, MBA, clinical, etc)
